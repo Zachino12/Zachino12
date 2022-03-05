@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zachino12
+- 👋 Hi, I’m @Zachino12 (Vishal)
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Projects
